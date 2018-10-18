@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/ben/Desktop/Vapor series/futures/.build/checkouts/crypto.git--3619080692439096233/Sources/CCryptoOpenSSL/include"
+    export *
+}

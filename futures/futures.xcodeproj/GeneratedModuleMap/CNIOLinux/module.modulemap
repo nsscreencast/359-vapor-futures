@@ -1,0 +1,4 @@
+module CNIOLinux {
+    umbrella "/Users/ben/Desktop/Vapor series/futures/.build/checkouts/swift-nio.git--5060289860199790889/Sources/CNIOLinux/include"
+    export *
+}
